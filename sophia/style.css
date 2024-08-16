@@ -1,0 +1,18 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: ghostwhite;
+    font-size: 40px;
+    background-color: brown;
+}
+
+body {
+    background-color: brown;
+    
+}
+p {
+    color: cornsilk;
+}
